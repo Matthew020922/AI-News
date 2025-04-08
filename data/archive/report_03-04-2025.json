@@ -1,0 +1,187 @@
+{
+  "date": "03/04/2025",
+  "day": 3,
+  "month": "四月",
+  "year": 2025,
+  "title": "AI日报: 速来！机器之心ICL...; 大模型、其他领域最新进展",
+  "coverImage": "https://placehold.co/300x200/333/white?text=AI日报",
+  "articleCount": 6,
+  "keywords": [
+    "AI",
+    "Claude",
+    "ICLR",
+    "OpenAI",
+    "速来"
+  ],
+  "categories": [
+    "大模型",
+    "其他",
+    "技术研究"
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "速来！机器之心ICLR 2025新加坡现场人才晚宴开启报名",
+      "source": "机器之心",
+      "link": "https://www.jiqizhixin.com/articles/2025-04-03-10",
+      "pubDate": "Thu, 03 Apr 2025 17:21:45 +0800",
+      "content": "",
+      "summaryPoints": [
+        "🔍 [CDATA[2025 年开年，以 DeepSeek R1 为代表的推理大模型开启炸场模式"
+      ],
+      "keywords": [
+        "速来",
+        "机器之心",
+        "ICLR"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "DeepResearcher：交大、SII发布首个真实环境强化学习「AI研究者」模型",
+      "source": "机器之心",
+      "link": "https://www.jiqizhixin.com/articles/2025-04-03-9",
+      "pubDate": "Thu, 03 Apr 2025 17:18:42 +0800",
+      "content": "",
+      "summaryPoints": [
+        "🔬 [CDATA[上海交通大学与 SII 联合发布了 DeepResearcher，代码训练框架完全开源"
+      ],
+      "keywords": [
+        "AI",
+        "DeepResearcher",
+        "交大"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "OpenAI的AI复现论文新基准，Claude拿了第一名",
+      "source": "机器之心",
+      "link": "https://www.jiqizhixin.com/articles/2025-04-03-5",
+      "pubDate": "Thu, 03 Apr 2025 13:59:10 +0800",
+      "content": "",
+      "summaryPoints": [
+        "🚀 [CDATA[大模型能写出 ICML Spotlight 论文吗"
+      ],
+      "keywords": [
+        "Claude",
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ICLR 2025 Spotlight | 参数高效微调新范式！上海交大联合上海AI Lab推出参数冗余微调算法",
+      "source": "机器之心",
+      "link": "https://www.jiqizhixin.com/articles/2025-04-03-4",
+      "pubDate": "Thu, 03 Apr 2025 13:54:23 +0800",
+      "content": "",
+      "summaryPoints": [
+        "🔍 [CDATA[低秩适配器（LoRA）能够在有监督微调中以约 5% 的可训练参数实现全参数微调 90% 性能"
+      ],
+      "keywords": [
+        "AI",
+        "ICLR",
+        "Spotlight"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "AI复现顶尖AI论文？OpenAI最新测评：Claude 3.5得分第一",
+      "source": "AI寒武纪",
+      "link": "https://mp.weixin.qq.com/s/JmAbK6Ub8EqPrENwB78LDw",
+      "pubDate": "2025-04-03T04:30:33.000Z",
+      "content": "",
+      "summaryPoints": [
+        "📄 AI复现顶尖AI论文？OpenAI最新测评：Claude 3.5得分第一的相关内容"
+      ],
+      "keywords": [
+        "AI",
+        "Claude",
+        "复现顶尖"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "让AI替码农卷复杂任务，贾佳亚团队提出MoTCoder，准确率刷新SOTA",
+      "source": "机器之心",
+      "link": "https://www.jiqizhixin.com/articles/2025-04-03-2",
+      "pubDate": "Thu, 03 Apr 2025 11:28:42 +0800",
+      "content": "",
+      "summaryPoints": [
+        "🔬 [CDATA[大模型写代码早就是基操了，但让它写算法竞赛题或企业级系统代码，就像让只会煮泡面的人去做满汉全席 —— 生成的代码要么是 “铁板一块” 毫无章法，要么是 “一锅乱炖” 难以维护"
+      ],
+      "keywords": [
+        "AI",
+        "替码农卷复杂",
+        "任务"
+      ]
+    }
+  ],
+  "categorizedArticles": {
+    "大模型": [
+      {
+        "title": "速来！机器之心ICLR 2025新加坡现场人才晚宴开启报名",
+        "link": "https://www.jiqizhixin.com/articles/2025-04-03-10",
+        "pubDate": "Thu, 03 Apr 2025 17:21:45 +0800",
+        "content": "<![CDATA[2025 年开年，以 DeepSeek R1 为代表的推理大模型开启炸场模式。]]>",
+        "source": "机器之心",
+        "guid": "https://www.jiqizhixin.com/articles/2025-04-03-10",
+        "media": null,
+        "category": "tech"
+      },
+      {
+        "title": "OpenAI的AI复现论文新基准，Claude拿了第一名",
+        "link": "https://www.jiqizhixin.com/articles/2025-04-03-5",
+        "pubDate": "Thu, 03 Apr 2025 13:59:10 +0800",
+        "content": "<![CDATA[大模型能写出 ICML Spotlight 论文吗？]]>",
+        "source": "机器之心",
+        "guid": "https://www.jiqizhixin.com/articles/2025-04-03-5",
+        "media": null,
+        "category": "tech"
+      },
+      {
+        "title": "AI复现顶尖AI论文？OpenAI最新测评：Claude 3.5得分第一",
+        "link": "https://mp.weixin.qq.com/s/JmAbK6Ub8EqPrENwB78LDw",
+        "pubDate": "2025-04-03T04:30:33.000Z",
+        "content": "",
+        "source": "AI寒武纪",
+        "guid": "JmAbK6Ub8EqPrENwB78LDw",
+        "media": null,
+        "category": "tech"
+      },
+      {
+        "title": "让AI替码农卷复杂任务，贾佳亚团队提出MoTCoder，准确率刷新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-04-03-2",
+        "pubDate": "Thu, 03 Apr 2025 11:28:42 +0800",
+        "content": "<![CDATA[大模型写代码早就是基操了，但让它写算法竞赛题或企业级系统代码，就像让只会煮泡面的人去做满汉全席 —— 生成的代码要么是 “铁板一块” 毫无章法，要么是 “一锅乱炖” 难以维护。]]>",
+        "source": "机器之心",
+        "guid": "https://www.jiqizhixin.com/articles/2025-04-03-2",
+        "media": null,
+        "category": "tech"
+      }
+    ],
+    "其他": [
+      {
+        "title": "DeepResearcher：交大、SII发布首个真实环境强化学习「AI研究者」模型",
+        "link": "https://www.jiqizhixin.com/articles/2025-04-03-9",
+        "pubDate": "Thu, 03 Apr 2025 17:18:42 +0800",
+        "content": "<![CDATA[上海交通大学与 SII 联合发布了 DeepResearcher，代码训练框架完全开源。]]>",
+        "source": "机器之心",
+        "guid": "https://www.jiqizhixin.com/articles/2025-04-03-9",
+        "media": null,
+        "category": "tech"
+      }
+    ],
+    "技术研究": [
+      {
+        "title": "ICLR 2025 Spotlight | 参数高效微调新范式！上海交大联合上海AI Lab推出参数冗余微调算法",
+        "link": "https://www.jiqizhixin.com/articles/2025-04-03-4",
+        "pubDate": "Thu, 03 Apr 2025 13:54:23 +0800",
+        "content": "<![CDATA[低秩适配器（LoRA）能够在有监督微调中以约 5% 的可训练参数实现全参数微调 90% 性能。]]>",
+        "source": "机器之心",
+        "guid": "https://www.jiqizhixin.com/articles/2025-04-03-4",
+        "media": null,
+        "category": "tech"
+      }
+    ]
+  }
+}

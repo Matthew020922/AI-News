@@ -1,0 +1,137 @@
+{
+  "date": "2025-04-07",
+  "chineseDate": "4月7日",
+  "time": "23:25",
+  "title": "AI日报: AI论文“冷冻”6 个月; 反向传播; 铰链物体的通用世界模型",
+  "news": [
+    {
+      "id": "news1",
+      "number": 1,
+      "title": "1、AI论文“冷冻”6 个月，DeepMind科学家被逼“大逃亡”：买下整个学术界，又把天才都困在笼里",
+      "keywords": "谷歌 DeepMind AI",
+      "content": "为在蓬勃发展的AI行业夺取主导地位、保持竞争优势，谷歌旗下AI部门DeepMind改变论文发布方法，刻意推迟研究成果发布速度。由Demis Hassabis领导的谷歌AI团队引入更严格审查程序及官僚审批机制，提高AI论文发布门槛。据七位前任及现任研究科学家透露，这一举措意味着研究人员更难对外公布成果。这种做法可能会限制学术交流与成果共享，影响AI领域的发展速度和创新活力，也可能让相关研究人员的发展受限。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨谷歌旗下DeepMind为保持竞争优势，提高AI论文发布门槛，强制部分论文等待6个月，导致部分员工离职。",
+        "💰2023年OpenAI大语言模型营收超10亿美元，谷歌为应对竞争，将Brain与DeepMind合并，加速推出Gemini。",
+        "🏢顶尖AI人才从DeepMind外流，2023年超10人创业，因公司创新不足、商业化转型让基础研究人员不满。 "
+      ],
+      "source": "https://www.36kr.com/p/3239855472950914",
+      "category": "ai-tech",
+      "source_name": "36Kr科技"
+    },
+    {
+      "id": "news2",
+      "number": 2,
+      "title": "2、反向传播",
+      "keywords": "无梯度学习 反向传播 神经网络",
+      "content": "反向传播是深度学习核心技术之一，但使该技术成为核心的 Geoffrey Hinton 早在几年前就提出应抛弃它并重新开始，且他一直对反向传播持怀疑态度。原因在于这种方法既不符合生物学机理，又与大规模模型的并行性不兼容。为此，Hinton 等人一直在寻找替代反向传播的新方法，如 2022 年提出的前向 - 前向算法。不过，因该算法在性能、可泛化性等方面存在问题，相关探索进展不大。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨Hinton早有抛弃反向传播的观点，因其不符生物学机理且与大规模模型并行性不兼容，但此前替代方法探索起色不大。",
+        "💡牛津大学和Mila实验室开发NoProp新型学习方法，不依赖前后向传播，在多图像分类基准测试表现有效。",
+        "📈实验显示NoProp-DT在离散时间设置性能佳，NoProp减少GPU内存消耗，连续时间设置部分情况也有优势。 "
+      ],
+      "source": "https://www.jiqizhixin.com/articles/2025-04-07-7",
+      "category": "ai-research",
+      "source_name": "机器之心"
+    },
+    {
+      "id": "news3",
+      "number": 3,
+      "title": "3、铰链物体的通用世界模型，超越扩散方法，入选CVPR 2025",
+      "keywords": "世界模型 重建模型 铰链物体",
+      "content": "基于当前观察预测铰链物体尤其是 part - level 级别的运动，是实现世界模型的关键。现有基于 diffusion 的方法虽有进展，但存在处理效率低、缺乏三维感知等问题，难以用于真实环境。清华大学联合北京大学提出首个基于重建模型的 part - level 运动建模——PartRM。用户给定单张输入图像和对应 drag，PartRM 可生成观测物体未来状态的三维表征，让生成数据能服务于机器人操纵等任务，该成果入选 CVPR 2025，有望推动相关领域发展。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨清华大学联合北京大学提出首个基于重建模型的PartRM，能生成观测物体未来状态三维表征，研究入选CVPR 2025。",
+        "🏠基于PartNet - Mobility构建PartDrag - 4D数据集，含8种738个mesh、20548个状态，用于部件级别动态建模。",
+        "📈实验显示PartRM在PSNR等指标上超基线模型，生成效率大幅提升，单次生成仅需4秒。 "
+      ],
+      "source": "https://www.jiqizhixin.com/articles/2025-04-07-5",
+      "category": "ai-research",
+      "source_name": "机器之心"
+    },
+    {
+      "id": "news4",
+      "number": 4,
+      "title": "4、Llama 4训练作弊爆出惊天丑闻，AI大佬愤而辞职，代码实测崩盘全网炸锅",
+      "keywords": "Llama 4 AI 大模型",
+      "content": "Llama 4本应是AI圈焦点，却成翻车现场。开源首日，全网实测其代码能力崩盘，还被曝出模型训练测试集作弊。Meta发布Llama 4后，有大佬愤而请辞。据爆料，经反复训练，Llama 4未能达到最优水平，与顶尖大模型实力差距大。为蒙混过关，高层建议在后训练阶段将多个benchmark测试集混入训练数据，以短期提升指标。这一丑闻引发全网关注，对Llama 4声誉造成严重打击，也给AI行业的诚信和发展带来负面影响。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨Llama 4开源首日代码能力实测崩盘，有爆料称其训练时将测试集混入数据作弊，已致内部员工和高管辞职。",
+        "💰沃顿商学院教授称可分辨模型是优化还是进步，网友实测Llama 4性能差，与顶尖模型实力悬殊。",
+        "🏢Meta AI研究部副总裁Joelle Pineau申请5月底辞职，虽有网友称与Llama 4无关，但此事让其未来扑朔迷离。 "
+      ],
+      "source": "https://www.36kr.com/p/3239723914444420",
+      "category": "ai-tech",
+      "source_name": "36Kr科技"
+    },
+    {
+      "id": "news5",
+      "number": 5,
+      "title": "5、谷歌发145页论文：预测AGI或2030年出现 警告可能“永久毁灭人类”",
+      "keywords": "谷歌 AGI 人工智能",
+      "content": "近日，谷歌旗下DeepMind实验室发布145页人工智能安全报告。报告称具备人类智能水平的通用人工智能（AGI）可能在2030年左右出现，且可能造成“永久毁灭人类”的严重后果。研究人员指出，AGI可能带来致人类永久灭绝的生存风险，属于极端危害。此重要议题无法由Google DeepMind一家公司解决，需整个社会共同参与讨论，探讨能接受的风险程度以及如何定义和理解潜在危害。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨谷歌旗下DeepMind发布145页AI安全报告，预测AGI可能2030年左右出现，或造成“永久毁灭人类”后果。",
+        "💰论文将高级AI风险分四类，概述DeepMind风险缓解策略，还含蓄批评Anthropic和OpenAI安全策略投入不足。",
+        "🧠部分专家质疑报告，认为应对AGI风险需更全面措施，当前AGI定义模糊，难以进行严谨科学评估。 "
+      ],
+      "source": "https://www.36kr.com/p/3239944873672712",
+      "category": "ai-tech",
+      "source_name": "36Kr科技"
+    },
+    {
+      "id": "news6",
+      "number": 6,
+      "title": "6、OpenAI：将在几周内发布o3和o4-mini，几个月后推出GPT-5",
+      "keywords": "OpenAI GPT-5 大模型",
+      "content": "当地时间4月4日，OpenAI首席执行官山姆·奥特曼在X平台发文，称计划有变，将推出o3和o4 - mini，预计几周内发布，几个月后推出GPT - 5。这一调整与GPT - 5研发进展有关，奥特曼表示这样能让GPT - 5比最初设想更出色。他还指出，整合内容难度超预期，且要确保有足够算力满足预计会出现的巨大需求。今年2月，奥特曼曾发布公司GPT - 4.5和GPT - 5人工智能模型发展计划。此次调整或影响人工智能领域发展进程。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨当地时间4月4日，OpenAI首席执行官山姆·奥特曼称几周内发布o3和o4 - mini，几个月后推出GPT - 5，此举或让GPT - 5更出色。",
+        "💡今年2月奥特曼曾计划将o3整合入GPT - 5，此次调整或因谷歌Gemini 2.5 Pro，有观点认为是为完善GPT - 5争取时间。",
+        "🎯据官方文档，GPT - 5将实现多模态能力跃迁，通过三级服务体系构建商业护城河，满足不同用户需求。 "
+      ],
+      "source": "https://www.36kr.com/p/3239944840281733",
+      "category": "ai-tech",
+      "source_name": "36Kr科技"
+    },
+    {
+      "id": "news7",
+      "number": 7,
+      "title": "7、论文读得慢，可能是工具的锅，一手实测科研专用版「DeepSeek」",
+      "keywords": "DeepSeek 大模型 AI",
+      "content": "AI大牛Andrej Karpathy预言，未来99%的“attention”（对内容的需求、处理和分析）将是大模型的，而非人类的，意味着未来绝大多数资料处理工作将由大模型完成。对于常接触大量文档和文案的开发者、研究者来说，很能共鸣这一预言。如今，人们拿到论文后交给AI进行初步总结已成常见做法。此预言反映出大模型在资料处理领域的发展趋势，若成真，将极大改变信息处理方式，提升工作效率。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨AI大牛Andrej Karpathy预言未来99%的资料处理工作将由大模型完成，而非人类，目前科研场景缺定制AI助手。",
+        "💰“心流AI助手”接入DeepSeek满血版，有论文图谱等功能，满足科研需求且免费，实测体验佳。",
+        "🎯该助手有特色功能如引文直达、知识库问答等，虽有小问题待改进，但为科研打造的理念值得期待。 "
+      ],
+      "source": "https://www.jiqizhixin.com/articles/2025-04-07-8",
+      "category": "ai-research",
+      "source_name": "机器之心"
+    },
+    {
+      "id": "news8",
+      "number": 8,
+      "title": "8、MoCha：开启自动化多轮对话电影生成新时代",
+      "keywords": "视频生成 影视制作 Meta",
+      "content": "加拿大滑铁卢大学魏聪、陈文虎教授团队与Meta GenAI合作取得成果。近年来，视频生成技术在动作真实性上有进展，但在角色驱动的叙事生成方面不足，限制了其在自动化影视制作与动画创作中的应用。现有方法多聚焦Talking Head场景，仅生成面部区域，还高度依赖辅助条件，使得生成内容在动作幅度与连贯性上受限。该团队开启了自动化多轮对话电影生成新时代，推出MoCha，有望突破现有技术局限，为影视制作和动画创作带来新的可能。",
+      "contentLengthSufficient": true,
+      "summary": [
+        "✨加拿大滑铁卢大学魏聪、陈文虎教授团队与Meta GenAI提出MoCha，突破现有技术局限，为自动化叙事视频生成提供新方案。",
+        "💰MoCha设计了Speech - Video Window Attention机制，提出联合训练策略和结构化提示模板，实现多角色多轮对话生成。",
+        "🏠大量实验验证MoCha在真实感、表现力、可控性与泛化性方面领先，相关研究在X平台获超百万浏览量。 "
+      ],
+      "source": "https://www.jiqizhixin.com/articles/2025-04-07-6",
+      "category": "ai-research",
+      "source_name": "机器之心"
+    }
+  ],
+  "newsCount": 8
+}

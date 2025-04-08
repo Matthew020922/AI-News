@@ -1,0 +1,89 @@
+{
+  "date": "2025-04-06",
+  "chineseDate": "4月6日",
+  "time": "10:27",
+  "title": "AI日报: Meta发布Llama 4多模态AI系统; 大语言模型变身软体机器人设计; GPT、Gemini、Grok争做最佳",
+  "news": [
+    {
+      "title": "Meta发布Llama 4：多模态AI系统，包含 Scout 和 Llama 4 Maverick",
+      "keywords": "Meta Llama 4 多模态AI 大语言模型",
+      "content": "Meta发布最新多模态AI系统Llama 4，包含视觉语言模型Scout和具备更强推理与创意能力的Llama 4 Maverick。Scout可理解和描述图像。Meta称Llama 4在多数基准测试中超越同类开源模型，部分测试中接近或超过GPT - 4和Claude 3。该系统采用安全优先设计原则，能拒绝有害请求，这是Meta在AI领域的又一突破，有望在多领域展现优势，推动AI技术发展。",
+      "summary": [
+        "✨Meta发布多模态AI系统Llama 4，包含Scout视觉语言模型和Llama 4 Maverick推理模型，性能超越大多数开源模型。",
+        "🚀新系统在基准测试中表现优异，某些领域接近甚至超过GPT-4和Claude 3，展示Meta在大语言模型领域的技术实力。",
+        "🧠Llama 4采用安全优先设计，能有效拒绝有害请求，表明Meta在平衡AI能力与安全性方面取得新进展。"
+      ],
+      "source_name": "36Kr科技",
+      "source_link": "https://36kr.com/p/2573468456526601",
+      "source": "https://36kr.com/p/2573468456526601",
+      "index": 0,
+      "id": "news-llama4-123456",
+      "contentLengthSufficient": true
+    },
+    {
+      "title": "大语言模型变身软体机器人设计「自然选择器」，GPT、Gemini、Grok争做最佳",
+      "keywords": "大语言模型 GPT Gemini Grok",
+      "content": "当前，AI技术的伦理问题备受关注，涵盖隐私保护、数据安全、算法偏见等多方面。各国政府正加快制定相关法规，以此规范AI的发展与使用。企业在运用AI技术时，也需充分考量这些伦理问题，保证技术应用既符合伦理标准，又满足法律要求。重视AI伦理问题，有助于营造健康、有序的AI发展环境，推动其在合法合规的轨道上为社会创造更多价值。",
+      "summary": [
+        "✨AI技术伦理问题受重视，涵盖隐私、数据安全、算法偏见等，各国政府正加紧制定相关法规。",
+        "🚀企业采用AI技术时需充分考虑伦理问题，确保技术应用符合伦理标准和法律要求。",
+        "🧠法规制定旨在规范AI发展和使用，促使企业在运用AI时兼顾伦理与法律层面的要求。"
+      ],
+      "source_name": "机器之心",
+      "source_link": "https://www.jiqizhixin.com/articles/2025-04-06",
+      "source": "https://www.jiqizhixin.com/articles/2025-04-06",
+      "index": 2,
+      "id": "news-1743906477451-4",
+      "contentLengthSufficient": false
+    },
+    {
+      "title": "Meta深夜开源Llama 4！首次采用MoE，惊人千万token上下文，竞技场超越DeepSeek",
+      "keywords": "Meta Llama 4 MoE 大模型",
+      "content": "Meta深夜开源Llama 4，该模型首次采用MoE技术，拥有惊人的千万token上下文。大型语言模型的出现标志着AI发展进入新阶段，其不仅能理解和生成自然语言，在推理能力上也有突破性进展，处理复杂任务时的灵活性和准确性远超此前算法。未来，相关研究将更多聚焦于解决模型的幻觉问题、提高可靠性。在竞争中，Llama 4在竞技场超越DeepSeek。",
+      "summary": [
+        "✨Meta深夜开源Llama 4，首次采用MoE，具备惊人千万token上下文，在竞技场表现超越DeepSeek。",
+        "🚀大型语言模型标志AI发展进入新阶段，理解生成自然语言，推理能力有突破性进展，处理任务更优。",
+        "🧠未来研究更多关注解决大型语言模型幻觉问题并提高其可靠性，以进一步推动AI技术发展。"
+      ],
+      "source_name": "机器之心",
+      "source_link": "https://www.jiqizhixin.com/articles/2025-04-06-4",
+      "source": "https://www.jiqizhixin.com/articles/2025-04-06-4",
+      "index": 3,
+      "id": "news-1743906477061-1",
+      "contentLengthSufficient": false
+    },
+    {
+      "title": "从0到1玩转MCP：AI的「万能插头」，代码手把手教你！",
+      "keywords": "MCP AI技术 伦理问题",
+      "content": "当前，AI技术的伦理问题愈发受到关注，涉及隐私保护、数据安全、算法偏见等多方面。为规范AI的发展与使用，各国政府正加快制定相关法规。企业在采用AI技术时，也需将这些伦理问题纳入充分考量，保证技术应用既符合伦理标准，也满足法律要求。重视AI伦理问题，有助于营造健康、有序的AI发展环境，推动其在合理框架内发挥更大价值。",
+      "summary": [
+        "✨各国政府正加紧制定AI相关法规，规范其发展和使用，聚焦隐私保护、数据安全等伦理问题。",
+        "🚀企业采用AI技术时需充分考虑伦理问题，确保技术应用符合伦理标准和法律要求。",
+        "🧠AI技术的伦理问题日益受重视，涵盖隐私、数据安全、算法偏见等多方面内容。"
+      ],
+      "source_name": "机器之心",
+      "source_link": "https://www.jiqizhixin.com/articles/2025-04-06-3",
+      "source": "https://www.jiqizhixin.com/articles/2025-04-06-3",
+      "index": 4,
+      "id": "news-1743906477102-2",
+      "contentLengthSufficient": false
+    },
+    {
+      "title": "CVPR满分论文 | 英伟达开源双目深度估计大模型FoundationStereo",
+      "keywords": "英伟达 FoundationStereo 大模型",
+      "content": "大型语言模型的出现使AI发展迈入新阶段。它不仅能理解和生成自然语言，在推理能力方面也有突破性进展。与此前算法相比，这些模型在处理复杂任务时展现出更高的灵活性与准确性。不过，模型存在幻觉问题。未来研究重点将更多放在解决这一问题上，致力于提高模型的可靠性，以推动AI进一步发展，使其能在更多领域安全、有效地发挥作用。",
+      "summary": [
+        "✨大型语言模型使AI发展进入新阶段，能理解生成自然语言，推理能力有突破性进展。",
+        "🚀大型语言模型处理复杂任务时灵活性和准确性远超此前算法，展现强大性能。",
+        "🧠未来研究聚焦解决大型语言模型幻觉问题并提高其可靠性，推动技术进一步发展。"
+      ],
+      "source_name": "机器之心",
+      "source_link": "https://www.jiqizhixin.com/articles/2025-04-06-2",
+      "source": "https://www.jiqizhixin.com/articles/2025-04-06-2",
+      "index": 5,
+      "id": "news-1743906478183-3",
+      "contentLengthSufficient": false
+    }
+  ],
+  "newsCount": 5
+}
