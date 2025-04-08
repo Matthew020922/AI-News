@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>华泰证券AI日报详情</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        .deepseek-info {
+            background-color: #fff8f7;
+            border-left: 4px solid #e71f19;
+            padding: 12px 15px;
+            margin: 15px 0 25px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            animation: fadeIn 0.5s ease-in-out;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+        }
+        
+        .deepseek-info i {
+            font-size: 20px;
+            margin-right: 12px;
+            color: #e71f19;
+        }
+        
+        .deepseek-info p {
+            margin: 0;
+            font-size: 14px;
+            color: #555;
+            line-height: 1.5;
+        }
+        
+        .deepseek-info .close-btn {
+            margin-left: auto;
+            cursor: pointer;
+            color: #999;
+            font-size: 16px;
+            transition: color 0.3s ease;
+            padding: 5px;
+        }
+        
+        .deepseek-info .close-btn:hover {
+            color: #333;
+        }
+        
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .breadcrumb a {
+            color: #e71f19;
+            transition: color 0.3s;
+        }
+        
+        .breadcrumb a:hover {
+            color: #b5170f;
+        }
+        
+        .breadcrumb i {
+            margin: 0 8px;
+            font-size: 10px;
+            color: #999;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-nav">
+                <a href="index.html" class="logo">
+                    <span class="logo-text">华泰证券</span>
+                    <span>AI日报</span>
+                </a>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">首页</a></li>
+                        <li><a href="#" class="active">AI日报</a></li>
+                        <li><a href="#"><i class="fas fa-ellipsis-h"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" placeholder="搜索页面内容">
+                </div>
+                <a href="#" class="user-icon"><i class="fas fa-user"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="detail-container">
+            <div class="breadcrumb">
+                <a href="index.html">首页</a> <i class="fas fa-chevron-right"></i> <span>AI日报详情</span>
+            </div>
+            
+            <div class="deepseek-info" id="deepseekInfo">
+                <i class="fas fa-lightbulb"></i>
+                <p><strong>新功能上线！</strong> 点击新闻标题旁边的<i class="fas fa-search-plus" style="font-size: 12px; margin: 0 3px;"></i>图标，即可使用百度DeepSeek搜索并解读相关信息。</p>
+                <span class="close-btn" onclick="document.getElementById('deepseekInfo').style.display='none'"><i class="fas fa-times"></i></span>
+            </div>
+            
+            <div class="detail-header">
+                <div class="report-date">4月5日 华泰证券AI日报</div>
+                <h1>华泰证券AI日报: 今日AI行业热点资讯</h1>
+            </div>
+            
+            <div class="news-container">
+                <!-- 目录导航 -->
+                <div class="news-navigation">
+                    <h3>目录</h3>
+                    <ul id="news-navigation-list">
+                        <!-- 通过JavaScript动态生成 -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2024 华泰证券. 保留所有权利。</p>
+        </div>
+    </footer>
+    <script src="detail-app.js"></script>
+</body>
+</html> 

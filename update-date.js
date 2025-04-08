@@ -1,0 +1,1 @@
+const fs = require("fs"); const currentReport = JSON.parse(fs.readFileSync("current-report.json", "utf8")); currentReport.date = "2025-04-07"; currentReport.chineseDate = "4月7日"; currentReport.time = "10:30"; fs.writeFileSync("current-report.json", JSON.stringify(currentReport, null, 2)); console.log("日报日期已更新为2025年4月7日");

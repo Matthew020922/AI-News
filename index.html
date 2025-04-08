@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>华泰证券AI日报</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- 添加一个meta标签避免浏览器缓存 -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    
+
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-nav">
+                <a href="#" class="logo">
+                    <span class="logo-text">华泰证券</span>
+                    <span>AI日报</span>
+                </a>
+                <nav>
+                    <ul>
+                        <li><a href="#" class="active">首页</a></li>
+                        <li><a href="#">AI日报</a></li>
+                        <li><a href="#"><i class="fas fa-ellipsis-h"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" placeholder="搜索">
+                </div>
+                <div class="language-selector">
+                    <span>ZH</span>
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+                <a href="#" class="user-icon"><i class="fas fa-user"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- 当天日报 - 使用加载指示器，等待API数据 -->
+        <section class="daily-report current">
+            <div class="loading-indicator">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>正在加载最新AI日报...</p>
+            </div>
+        </section>
+
+        <!-- 历史日报 - 使用加载指示器，等待API数据 -->
+        <section class="history-reports">
+            <h3>往期日报</h3>
+            <div class="loading-indicator">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>正在加载历史日报...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2024 华泰证券. 保留所有权利。</p>
+        </div>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
